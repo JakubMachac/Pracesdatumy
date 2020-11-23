@@ -23,7 +23,7 @@ function ukazCas() {
   document.getElementById("cas").innerHTML = s;
 }
 
-patek13 = () => {
+patektrinacteho = () => {
   let mesic_13 = new Date().getMonth(); 
   let mesice = 12;
   let patky13 = " ";
